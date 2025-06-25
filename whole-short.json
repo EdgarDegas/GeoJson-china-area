@@ -1,0 +1,109 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "db",
+      "properties": {
+        "name": "东北",
+        "cp": [
+          128.1445,
+          45.5156
+        ],
+        "childNum": 3
+      },
+      "geometry": {}
+    },
+    {
+      "type": "Feature",
+      "id": "hb",
+      "properties": {
+        "name": "华北",
+        "cp": [
+          115.1551,
+          42.2539
+        ],
+        "childNum": 6
+      },
+      "geometry": {}
+    },
+    {
+      "type": "Feature",
+      "id": "hd",
+      "properties": {
+        "name": "华东",
+        "cp": [
+          119.4648,
+          29.2891
+        ],
+        "childNum": 4
+      },
+      "geometry": {}
+    },
+    {
+      "type": "Feature",
+      "id": "hn",
+      "properties": {
+        "name": "华南",
+        "cp": [
+          111.2813,
+          23.6426
+        ],
+        "childNum": 4
+      },
+      "geometry": {}
+    },
+    {
+      "type": "Feature",
+      "id": "hz",
+      "properties": {
+        "name": "华中",
+        "cp": [
+          112.8,
+          31.1572
+        ],
+        "childNum": 4
+      },
+      "geometry": {}
+    },
+    {
+      "type": "Feature",
+      "id": "xn",
+      "properties": {
+        "name": "西南",
+        "cp": [
+          97.5,
+          30.1904
+        ],
+        "childNum": 5
+      },
+      "geometry": {}
+    },
+    {
+      "type": "Feature",
+      "id": "xb",
+      "properties": {
+        "name": "西北",
+        "cp": [
+          91.5996,
+          39.6396
+        ],
+        "childNum": 5
+      },
+      "geometry": {}
+    },
+    {
+      "type": "Feature",
+      "id": "tai_wan",
+      "properties": {
+        "name": "台湾",
+        "cp": [
+          121.0254,
+          23.5986
+        ],
+        "childNum": 1
+      },
+      "geometry": {}
+    }
+  ]
+}
